@@ -6,6 +6,7 @@
     "type": "git",
     "url": "git://github.com/etaletai13/paper-progress.git"
   },
+  "version": "2.1.1",
   "license": "BSD-3-Clause",
   "devDependencies": {
     "@polymer/gen-typescript-declarations": "^1.2.0",
