@@ -4,7 +4,7 @@
   "description": "A material design progress bar",
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/paper-progress.git"
+    "url": "git://github.com/etaletai13/paper-progress.git"
   },
   "license": "BSD-3-Clause",
   "devDependencies": {
@@ -14,6 +14,6 @@
   },
   "scripts": {
     "update-types": "bower install && gen-typescript-declarations --deleteExisting --outDir .",
-    "format": "webmat && npm run update-types"
+    "format": "webmat && yarn update-types"
   }
 }
